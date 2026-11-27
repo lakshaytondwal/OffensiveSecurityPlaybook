@@ -25,7 +25,7 @@ A personal reference archive for offensive security: commands, configs, scripts,
 
 ## About this repository
 
-This is a working notebook, not a tutorial or an original-research showcase. I am still building my skills, so some notes are basic and some are adapted from external sources, which are credited below. Documentation is minimal and some files are specific to particular lab setups.
+This is a working notebook, not a tutorial or an original-research showcase. I am still building my skills, so some notes are basic and some are adapted from external sources. Documentation is minimal and some files are specific to particular lab setups.
 
 ## Disclaimer
 
